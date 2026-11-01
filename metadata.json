@@ -1,0 +1,6 @@
+{
+  "name": "Математичко влечење јаже - Цели броеви",
+  "description": "Интерактивна игра за операции со цели броеви за интерактивни панели во училница со два тима и влечење јаже.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
